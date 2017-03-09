@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_badge.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.8.1\\res\\drawable\\material_drawer_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_ok.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\check_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cien.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\cien.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_rounded_white.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\button_rounded_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_mapa.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\menu_mapa.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ciento_uno.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\ciento_uno.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_descripcion.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\menu_descripcion.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_aprende.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\menu_aprende.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boton_cerrar_amarillo.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\boton_cerrar_amarillo.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\no_image.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balicin_digital_color.jpg",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\balicin_digital_color.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_left.9.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.8.1\\res\\drawable\\material_drawer_shadow_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_ko.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\check_ko.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_quiz.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\menu_quiz.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baliza.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\baliza.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_circle_mask.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.8.1\\res\\drawable\\material_drawer_circle_mask.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_black.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\gradient_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_top.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.8.1\\res\\drawable\\material_drawer_shadow_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spot.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.github.d-max\\spots-dialog\\0.4\\res\\drawable\\spot.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image_user.jpg",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\no_image_user.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_bottom.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.8.1\\res\\drawable\\material_drawer_shadow_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_right.9.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.8.1\\res\\drawable\\material_drawer_shadow_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_rounded_primary.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\button_rounded_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_ranking.png",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\src\\main\\res\\drawable\\menu_ranking.png"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\PCCasa\\AndroidStudioProjects\\quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    }
+]

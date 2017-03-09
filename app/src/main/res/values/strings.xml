@@ -1,0 +1,91 @@
+<resources>
+    <!--           Ingles            -->
+    <string name="app_name">OrienteeringQuiz</string>
+    <string name="btnAprende">Learn Symbols</string>
+    <string name="btnSimbolosMapa">Map Symbols Quiz</string>
+    <string name="btnSimbolosDescripcion">Description Symbols Quiz</string>
+    <string name="btnMixQuiz">Mixed Quiz</string>
+    <string name="btnClasificacion">Ranking</string>
+    <string name="principal">Orienteering Quiz</string>
+    <string name="aprende">Learn Symbols</string>
+    <string name="usuarios">Users</string>
+    <string name="clubes">Clubs</string>
+    <string name="club">Your Club: %1$s</string>
+    <string name="punt_max">Your Score: %1$s</string>
+    <string name="iniciar_sesion">Sign In</string>
+    <string name="iniciar_sesion_punt">Sign in to see your score</string>
+    <string name="iniciar_sesion_club">Sign in to see your club</string>
+    <string name="cerrar_sesion">Sign Out</string>
+
+    <string name="icon">icon</string>
+    <string name="cargando">Loading</string>
+
+    <!-- Splash -->
+    <string name="cargando_datos">Loading data…</string>
+
+    <!-- Mensajes y botones de dialogo salir -->
+    <string name="exit_title">Exit from OrienteeringQuiz</string>
+    <string name="exit_message">Do you really want to exit?</string>
+    <string name="exit_salir">Exit</string>
+    <string name="exit_cancelar">Cancel</string>
+    <string name="dialog_title_no_log_vip">You haven\'t sign in</string>
+    <string name="dialog_login">Do you want to log in at OrienteeringQuiz?</string>
+    <string name="dialog_message_logout">Do you really want to log out from OrienteeringQuiz?</string>
+    <string name="dialog_confirm_logout">Successfully logged out</string>
+
+    <!-- Registro - Perfil - Login -->
+    <string name="registro_title_registro">Sign Up</string>
+    <string name="titulo_home">Home</string>
+    <string name="registro_title_login">Log In</string>
+    <string name="registro_nombre">Username</string>
+    <string name="registro_club">Club</string>
+    <string name="registro_email">Email</string>
+    <string name="registro_password">Password</string>
+    <string name="registro_password_repeat">Repeat Password</string>
+    <string name="registro_btn_registrarse">Sign Up</string>
+    <string name="registro_btn_acceder">Access</string>
+    <string name="registro_rellene_campos_login">Access to Orienteering Quiz</string>
+    <string name="registro_rellene_campos_registro">Fill the following form to sign up</string>
+    <string name="editar">Edit</string>
+    <string name="perfil_nombre_apellidos">%1$s %2$s</string>
+    <string name="registro_no_login">No login at this moment. (You can not play Quiz Mix until registration)</string>
+
+    <!--Mensajes y errores-->
+    <string name="msg_campo_requerido">\'%1$s\' field is required</string>
+    <string name="msg_email_error">Wrong email format: \'<i>mail@mail.es</i>\'</string>
+    <string name="msg_error_post">Something went wrong, retry</string>
+    <string name="msg_error_registro_usuario">Email is already being used by another user</string>
+    <string name="msg_pass_no_coinciden">Passwords doesn\'t match</string>
+    <string name="msg_error_registro_usuario_generico">An error has ocurred while sending data.\n\nTry again later.</string>
+    <string name="msg_permisos_denegados">Some permissions have been denied and must be manually activated.\n\nThe application may not work correctly.</string>
+    <string name="msg_permisos_requeridos">Need the following permissions:</string>
+    <string name="msg_no_internet">Something goes wrong with your connection</string>
+    <string name="msg_no_image">Select a profile image</string>
+    <string name="msg_success">successful operation</string>
+
+    <!--Dialogos-->
+    <string name="dialog_choose_image">Choose an image…</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_aceptar">Accept</string>
+    <string name="dialog_cancelar">Cancel</string>
+    <string name="dialog_continuar">Continue</string>
+
+    <!--Nombres de activities-->
+    <string name="activity_registro">Sign Up</string>
+    <string name="activity_quiz_mapa">Map Quiz</string>
+    <string name="activity_quiz_desc">Description Quiz</string>
+    <string name="activity_quiz_mixto">Mixed Quiz</string>
+
+    <!--Quiz-->
+    <string name="felicidades">Congratulations</string>
+    <string name="has_acertado">You hit the symbol %1$s</string>
+    <string name="jugar">Play</string>
+    <string name="fin_juego">Game Over</string>
+    <string name="has_fallado">Sorry, %1$s is not the correct symbol</string>
+    <string name="continuar">Continue</string>
+    <string name="aciertos">Hits</string>
+    <string name="ronda">Round</string>
+    <string name="puntuacion">Score</string>
+</resources>

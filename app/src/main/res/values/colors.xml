@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MAIN COLORS -->
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryFocus">#ffab40</color>
+    <color name="colorPrimaryDark">#ec8400</color>
+    <color name="colorPrimaryDarker">#ef6c00</color>
+    <color name="colorAccent">#ff4549</color>
+    <color name="colorPrimaryAlpha">#1b152f4a</color>
+    <color name="colorTransparent">#00ffffff</color>
+    <color name="colorPressed">#ff4549</color>
+    <color name="colorPressedAlpha">#1bf9b233</color>
+    <color name="colorPressedFocus">#f0a732</color>
+    <color name="colorTitles">#fafafa</color>
+    <color name="colorWhite">#fdfdfe</color>
+    <color name="colorWhiteTransparent">#82ffffff</color>
+    <color name="colorBlack">#fa1a1a1a</color>
+    <color name="colorRed">#ae0202</color>
+    <color name="colorGreen">#005807</color>
+    <color name="colorGrey">#616161</color>
+    <color name="colorGreyMenu">#aaa9a9</color>
+    <color name="colorGreyTransparent">#82aaa9a9</color>
+    <color name="colorLightBlue">#45a0f0</color>
+    <color name="colorBlackTransparent">#aa000000</color>
+    <color name="colorLetra">#212121</color>
+    <color name="colorBorde">#e0e0e0</color>
+    <color name="background">#f5f5f5</color>
+    <color name="background_tutorial">#17314b</color>
+    <color name="background_post">#f4f4f4</color>
+    <color name="colorBlueGoogle">#4187ed</color>
+
+    <!-- COLORES ESPECIFICOS -->
+    <color name="color_quien_ganara">#E9E9E9</color>
+    <color name="color_fecha_calendario">#D9D9D9</color>
+    <color name="color_header_item">#f2f2f2</color>
+    <color name="color_link">#287bdd</color>
+
+    <!-- TAB LAYOUT BACKGROUND -->
+    <color name="tablayout_background">#fdfdfe</color>
+
+    <!-- COLOR RANKING -->
+    <color name="color1">#a0cc1a</color>
+    <color name="color2">#ffa000</color>
+    <color name="color3">#b00001</color>
+    <color name="color4">#304ffe</color>
+
+    <!--COLOR CHECKBOX-->
+    <color name="checkbox_active">#757575</color>
+    <color name="checkbox_inactive">#152f4a</color>
+
+    <!--MARCA-->
+    <color name="rojo_marca">#be1621</color>
+    <color name="amarillo_marca">#f9b233</color>
+</resources>

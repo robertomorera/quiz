@@ -1,0 +1,12 @@
+[
+  {
+    "id":"100",
+    "descripcion":"Uncrossable body of water",
+    "imagen":"100.png"
+  },
+  {
+    "id":"101",
+    "descripcion":"uncrossable marsh",
+    "imagen":"101.png"
+  }
+]

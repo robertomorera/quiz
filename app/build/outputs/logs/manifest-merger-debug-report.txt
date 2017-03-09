@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:5:5-8:39
+	android:largeScreens
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:6:9-36
+	android:smallScreens
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:8:9-36
+	android:normalScreens
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:7:9-37
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:17:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:18:22-68
+application
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:20:5-66:19
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\AndroidManifest.xml:12:5-20
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\AndroidManifest.xml:11:5-13:38
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:23.3.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:25:9-35
+	android:allowBackup
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:22:9-43
+	android:largeHeap
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:24:9-33
+	android:theme
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:26:9-47
+activity#com.symbel.orienteeringquiz.activity.ActivitySplash
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:29:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:30:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.symbel.orienteeringquiz.activity.ActivityPrincipal
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:38:9-40:51
+	android:screenOrientation
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:39:13-55
+activity#com.symbel.orienteeringquiz.activity.ActivityAprende
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:41:9-44:52
+	android:screenOrientation
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:44:13-49
+	android:parentActivityName
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:42:13-53
+activity#com.symbel.orienteeringquiz.activity.ActivityQuizSimbolos
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:48:13-49
+	android:parentActivityName
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:47:13-69
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:46:13-58
+activity#com.symbel.orienteeringquiz.activity.ActivityQuizMixto
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:49:9-52:52
+	android:screenOrientation
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:52:13-49
+	android:parentActivityName
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:50:13-55
+activity#com.symbel.orienteeringquiz.activity.ActivityClasif
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:53:9-56:52
+	android:screenOrientation
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:56:13-49
+	android:parentActivityName
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:55:13-69
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:54:13-52
+activity#com.symbel.orienteeringquiz.activity.ActivityLogin
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:57:9-60:52
+	android:screenOrientation
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:60:13-49
+	android:parentActivityName
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:59:13-69
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:58:13-51
+activity#com.symbel.orienteeringquiz.activity.ActivityRegistro
+ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:61:9-64:52
+	android:screenOrientation
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:64:13-49
+	android:parentActivityName
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:63:13-65
+	android:name
+		ADDED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml:62:13-54
+uses-sdk
+INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [me.everything:overscroll-decor-android:1.0.3] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\me.everything\overscroll-decor-android\1.0.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:23.3.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.flipboard:bottomsheet-commons:1.5.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.flipboard\bottomsheet-commons\1.5.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.flipboard:bottomsheet-core:1.5.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.flipboard\bottomsheet-core\1.5.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.mikepenz:materialdrawer:5.8.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\5.8.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.mikepenz:materialize:1.0.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.mikepenz\materialize\1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.8.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.8.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:2.1.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.mikepenz\fastadapter\2.1.0\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PCCasa\AndroidStudioProjects\quiz\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:24:8-31
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:21:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\PCCasa\AndroidStudioProjects\quiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:22:13-58
